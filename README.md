@@ -1,4 +1,4 @@
-## Hi there, 
+## Hi Mr/Mrs/Miss, 
 I am Argenis Enrique Velasquez Duarte 👋
 I am Data Analyst | 📊 SQL, Python & Excel Enthusiast | 🔍 Passionate about Data Storytelling  
 
@@ -14,7 +14,7 @@ I am Data Analyst | 📊 SQL, Python & Excel Enthusiast | 🔍 Passionate about 
 - ⚡ fun fact: i am Mechanical Engineer as university degree but the first moment i get in touch with the data anlysis i fallen in love.
 - 👋 I am sport man: i love running, football, baseball. And also i like to read and training my brain.
 
-  ## 🛠️ Tools & Technologies
+ ## 🛠️ Tools & Technologies
 - **Languages:** Python, SQL. 
 - **Databases:** PostgreSQL, MySQL  
 - **Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
