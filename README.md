@@ -8,11 +8,11 @@ I am Data Analyst | 📊 SQL, Python & Excel Enthusiast | 🔍 Passionate about 
 - 📚 Currently graduated as Data Analysis (via DataCamp & self-study).   
 - 💡 Interested in turning raw data into meaningful insights.
 - 🔭 I’m currently working on personnel projects about sports statistics.
-- 🌱 I’m currently keeping learning more about the data analysis wolds. I love Python and SQL.
+- 🌱 I’m currently keeping learning more about the data analysis worlds. I love Python and SQL.
 - 👯 I’m looking to collaborate on real life projects and getting a job what let me show my skills off.
-- 😄 Pronouns: my lover people call me "kike" by y second name "Enrique".
-- ⚡ fun fact: i am Mechanical Engineer as university degree but the first moment i get in touch with the data anlysis i fallen in love.
-- 👋 I am sport man: i love running, football, baseball. And also i like to read and training my brain.
+- 😄 Pronouns: my lover people call me "kike" by my second name "Enrique".
+- ⚡ fun fact: i am Mechanical Engineer as university degree but the first moment i get in touch with the data analysis i fallen in love it.
+- 👋 I am sport man: i love running, playing football, playing baseball. And also i like to read and training my brain.
 
  ## 🛠️ Tools & Technologies
 - **Languages:** Python, SQL. 
